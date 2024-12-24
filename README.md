@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AzeezatTaiwo
+- 👋 Hi, I’m Azeezat
 -   About Me
 - 👀 I’m interested in UI/UX design, creating intuitive user interfaces, and improving user experiences.
 - 🌱 I’m currently learning Advanced CSS techniques, JavaScript, and user research methodologies.
